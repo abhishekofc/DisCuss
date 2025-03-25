@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.animatedbutton {
+  animation-duration: 8000ms;
+}
+
+@media (max-width: 480px) {
+  .Toastify__toast-container--top-right {
+    top: auto !important;
+    bottom: 1rem !important;
+    left: 50% !important;
+    right: auto !important;
+    transform: translateX(-50%);
+    width: 90% !important;
+    max-width: 400px;
+  }
+}
