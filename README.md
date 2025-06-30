@@ -1,6 +1,6 @@
 # 💬 DisCuss – Discussion Forum Web App
 
-**DisCuss** is a full-stack **MERN** (MongoDB, Express.js, React, Node.js) web application that fosters real-time discussions, collaborative blogging, and community engagement. Built between **February 2025 – March 2025**, it combines modern web technologies to deliver a feature-rich, interactive platform.
+**DisCuss** is a full-stack **MERN** (MongoDB, Express.js, React, Node.js) web application that fosters real-time discussions, collaborative blogging, and community engagement. It combines modern web technologies to deliver a feature-rich, interactive platform.
 
 ---
 
@@ -66,7 +66,7 @@ DisCuss/
 ├── README.md
 └── package.json
 
-yaml
+
 Copy
 Edit
 
@@ -79,9 +79,7 @@ Edit
    git clone https://github.com/yourusername/discuss-forum-app.git
 Install dependencies
 
-bash
-Copy
-Edit
+
 cd server
 npm install
 cd ../client
@@ -95,8 +93,6 @@ Start backend: npm run server
 
 Start frontend: npm start
 
-📸 Preview
-Coming Soon – Screenshots & Demo Video
 
 ✍️ Author
 Abhishek Pandey
